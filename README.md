@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Akash 👋</h1>
+<h3 align="center">Final Year Student | Full-Stack Developer</h3>
 
-<!--
-**TahAkash56/TahAkash56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 B.E. Mechanical Engineering @ **BITS Goa**
+- 🎓 BS Data Science @ **IIT Madras (Online)**
+- 💡 Interested in **Backend Systems, Databases, and Scalable Web Apps**
+- 🏃 Regular runner | Discipline-driven learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Up To
+- 🔍 Practicing **Data Structures & Algorithms** for software roles  
+- 🌐 Building **Full-Stack MERN applications**
+- 📊 Exploring **Data Science & Machine Learning**
+
+---
+
+## 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-tah/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+
+---
+
