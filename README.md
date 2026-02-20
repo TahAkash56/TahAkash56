@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Akash 👋</h1>
-<h3 align="center">Final Year Student | Full-Stack Developer</h3>
+<h3 align="center">Final Year Engineering Student</h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - 🎓 B.E. Mechanical Engineering @ **BITS Goa**
 - 🎓 BS Data Science @ **IIT Madras (Online)**
 - 💡 Interested in **Backend Systems, Databases, and Scalable Web Apps**
@@ -11,10 +11,10 @@
 
 ---
 
-## 🚀 What I'm Up To
-- 🔍 Practicing **Data Structures & Algorithms** for software roles  
-- 🌐 Building **Full-Stack MERN applications**
-- 📊 Exploring **Data Science & Machine Learning**
+## What I'm Up To
+- Practicing **Data Structures & Algorithms** for software roles  
+- Building **Full-Stack MERN applications**
+- Exploring **Data Science & Machine Learning**
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
