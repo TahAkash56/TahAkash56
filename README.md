@@ -6,14 +6,9 @@
 ## About Me
 - B.E. Mechanical Engineering @ **BITS Goa**
 - BS Data Science @ **IIT Madras (Online)**
-- Interested in **Backend Systems, Databases, and Scalable Web Apps**
 
 ---
 
-## What I'm Up To
-- Practicing **Data Structures & Algorithms** for software roles  
-- Building **Full-Stack applications**
-- Exploring **Data Science & Machine Learning**
 
 ---
 
